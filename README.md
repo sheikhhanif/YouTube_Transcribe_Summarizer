@@ -6,7 +6,7 @@ The **YouTube Transcript Summarizer** is a Python-based tool designed to fetch t
 
 ## Features
 
-- **Transcript Retrieval**: Fetches transcripts from YouTube videos using the `youtube-transcript-api`.
+- **Transcript Retrieval**: Fetches transcripts from YouTube videos using the `youtube-transcript-api` pip package.
 - **Summarization**: Utilizes the `LLM`  to generate concise summaries of transcripts.
 - **Video Information Extraction**: Extracts video titles and URLs from a specified YouTube channel.
 - **JSON Output**: Stores the summarized information in a structured JSON file for easy access and analysis.
